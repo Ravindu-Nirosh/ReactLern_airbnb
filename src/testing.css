@@ -1,0 +1,47 @@
+
+.card-containr{
+    display: grid;
+    grid-template-columns: repeat(6,220px);
+    column-gap: 30px;
+    overflow: hidden;
+    margin: 30px;
+    width: 100%;
+    object-fit: cover;
+
+}
+
+.contacts {
+    width: 220px;
+    height: auto;
+    
+    position: relative;
+    display: flex;
+    justify-content: center;
+    /* background-color: aqua; */
+    border-radius: 8px;
+    box-shadow: 1px 1px 10px #d0d0d0;
+    
+}
+
+
+.contacts .contact-card img{
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.contact-card h3{
+    line-height: 0.8;
+    
+}
+
+.contact-card .info-group{
+    font-weight: 300;
+    font-size: 12px;
+
+}
+.contact-card .info-group span{
+    margin-left: 10px;
+}
