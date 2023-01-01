@@ -5,7 +5,7 @@ const Data =[
         title:'Learn Wedding Photography',
         description:'Learn Wedding Photography Learn Wedding Photography Learn Wedding Photography',
         price :200,
-        coverimg:'../imagegrid/img6.jpg',
+        coverimg:'imagegrid/img6.jpg',
         stats:{
             soldS:'Sold Out',
             rating:5.0,
@@ -20,7 +20,7 @@ const Data =[
         title:'Learn Wedding Photography',
         description:'Learn Wedding Photography Learn Wedding Photography Learn Wedding Photography',
         price :500,
-        coverimg:'../imagegrid/img2.jpg',
+        coverimg:'imagegrid/img2.jpg',
         stats:{
             soldS:'Sold Out',
             rating:5.0,
@@ -35,7 +35,7 @@ const Data =[
         title:'Learn Wedding Photography',
         description:'Learn Wedding Photography Learn Wedding Photography Learn Wedding Photography',
         price :500,
-        coverimg:'../imagegrid/img7.jpg',
+        coverimg:'imagegrid/img7.jpg',
         stats:{
             soldS:'Sold Out',
             rating:5.0,

@@ -3,7 +3,9 @@
 
 
 export default function Card(props){
-    console.log(props)
+
+    
+    const BASE_URL ="https://Ravindu-Nirosh.github.io/ReactLern_airbnb/"
     let bgtext 
     if(props.item.openSpots === 0 ){
         bgtext='SOLD OUT'
@@ -13,7 +15,7 @@ export default function Card(props){
     return(
 
         <div className="card-container-sub">
-            <img src={props.item.coverimg} alt='card'/>
+            <img src={BASE_URL+props.item.coverimg} alt='card'/>
             {bgtext && <span className="stausbg">{bgtext}</span>}
             <div className="ratings">
                 <i className="fa-solid fa-star"></i>
