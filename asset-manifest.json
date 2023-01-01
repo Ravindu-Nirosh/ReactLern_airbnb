@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ReactLern_airbnb/static/css/main.ccd63a29.css",
-    "main.js": "/ReactLern_airbnb/static/js/main.b63a1e87.js",
+    "main.js": "/ReactLern_airbnb/static/js/main.d4c71146.js",
     "index.html": "/ReactLern_airbnb/index.html",
     "main.ccd63a29.css.map": "/ReactLern_airbnb/static/css/main.ccd63a29.css.map",
-    "main.b63a1e87.js.map": "/ReactLern_airbnb/static/js/main.b63a1e87.js.map"
+    "main.d4c71146.js.map": "/ReactLern_airbnb/static/js/main.d4c71146.js.map"
   },
   "entrypoints": [
     "static/css/main.ccd63a29.css",
-    "static/js/main.b63a1e87.js"
+    "static/js/main.d4c71146.js"
   ]
 }
